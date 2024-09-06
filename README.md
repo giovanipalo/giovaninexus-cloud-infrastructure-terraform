@@ -44,7 +44,7 @@ Execute o comando abaixo para criar o contêiner Docker:
 docker run -dit --name giovaninexus-container -v ./IaC:/iac giovaninexus-image /bin/bash
 ```
 
-No Windows, você deve substituir ```./IaC``` pelo caminho completo da pasta. Por exemplo: ```C:\SeuCaminho\IaC.```
+No Windows, você deve substituir ```./IaC``` pelo caminho completo da pasta. Por exemplo: ```C:\SeuCaminho\IaC```.
 
 ### Verifique a Versão do Terraform
 
